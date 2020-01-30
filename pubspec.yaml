@@ -1,6 +1,6 @@
 name: fwe
-description: A new Flutter project.
-version: 1.0.6
+description: Flutter Web Experiments
+version: 1.0.7    #NOEDIT
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
